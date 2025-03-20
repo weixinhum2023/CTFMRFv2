@@ -1,0 +1,22 @@
+[0.007s] Invoking command in '/home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2 -- -j24 -l24
+[0.045s] [100%] Built target CTFMRFv2
+[0.053s] Invoked command in '/home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2 -- -j24 -l24
+[0.060s] Invoking command in '/home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2
+[0.066s] -- Install configuration: ""
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/lib/CTFMRFv2/CTFMRFv2
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/ament_index/resource_index/package_run_dependencies/CTFMRFv2
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/ament_index/resource_index/parent_prefix_path/CTFMRFv2
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/environment/ament_prefix_path.sh
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/environment/ament_prefix_path.dsv
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/environment/path.sh
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/environment/path.dsv
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/local_setup.bash
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/local_setup.sh
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/local_setup.zsh
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/local_setup.dsv
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/package.dsv
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/ament_index/resource_index/packages/CTFMRFv2
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/cmake/CTFMRFv2Config.cmake
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/cmake/CTFMRFv2Config-version.cmake
+[0.066s] -- Up-to-date: /home/weixinhum/CTFMRFv2/CTFMRFv2/install/CTFMRFv2/share/CTFMRFv2/package.xml
+[0.068s] Invoked command in '/home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/weixinhum/CTFMRFv2/CTFMRFv2/build/CTFMRFv2
