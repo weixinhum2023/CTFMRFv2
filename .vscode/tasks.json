@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/rolling/include",       //ros2安装的头文件
+            ],
+            "name": "ROS2",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "tasks": [
+        {
+            "label": "colcon build", //代表提示的描述性信息
+            "type": "shell",  //可以选择shell或者process,如果是shell代码是在shell里面运行一个命令，如果是process代表作为一个进程来运行
+            "command": "colcon build",//这个是我们需要运行的命令
+            "args": [],//如果需要在命令后面加一些后缀，可以写在这里
+            "group": {"kind":"build","isDefault":true},
+            "presentation": {
+                "focus": true,
+                "reveal": "always",//可选always或者silence，代表是否输出信息
+                "panel": "new"
+            },
+            "problemMatcher": "$msCompile"
+        },
+    ]
+}
