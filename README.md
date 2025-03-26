@@ -13,7 +13,7 @@ git clone https://github.com/weixinhum2023/CTFMRFv2
 To accelerate runtime performance, the dataset has been preprocessed and is available for download at the following link. If needed, a corresponding dataset format conversion tool will be provided in the future.
 
 Download Preprocessed Dataset: 
-https://pan.baidu.com/s/1iUQLHQC-Jc8mgBUhV4Yhxg?pwd=uc57'
+https://pan.baidu.com/s/1iUQLHQC-Jc8mgBUhV4Yhxg?pwd=uc57
 
 #### ​Dataset Setup Instructions
 After downloading the dataset, configure its path by modifying the rootPath variable in:
